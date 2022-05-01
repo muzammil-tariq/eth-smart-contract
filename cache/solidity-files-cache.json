@@ -37,8 +37,8 @@
       ]
     },
     "/home/muzammil413tariq/Desktop/workspace/blockChain/first-contract/contracts/Counter.sol": {
-      "lastModificationDate": 1651175743313,
-      "contentHash": "298f5fb2fad3b2dc7ed7ab29e7bfc806",
+      "lastModificationDate": 1651403927007,
+      "contentHash": "cf1ba211520a1e709ae98ad928be8d64",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
